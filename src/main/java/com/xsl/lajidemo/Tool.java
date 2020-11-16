@@ -11,5 +11,6 @@ package com.xsl.lajidemo;
 public class Tool {
     public static void main(String[] args) {
         System.err.println("123");
+        System.err.println("123");
     }
 }
